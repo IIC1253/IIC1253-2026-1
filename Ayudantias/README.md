@@ -2,7 +2,7 @@
 
 ## Cápsulas
 2026-1
-- [Cápsula Ayudanteia 04 (lógica de predicados)](https://youtu.be/CvSsvqTU-VE)
+- [Cápsula Ayudantía 04 (lógica de predicados)](https://youtu.be/CvSsvqTU-VE)
 
 2025-2
 - [Cápsula de introducción a LaTeX](https://www.youtube.com/watch?v=deI_EJfFQMo)
